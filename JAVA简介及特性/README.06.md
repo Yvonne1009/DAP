@@ -52,7 +52,7 @@ public class SimpleSwingApp {
 - 事件處理：JavaFX使用事件驅動模型來處理用戶的操作，通常通過Lambda表達式來簡化事件處理。
 範例：建立一個簡單的JavaFX應用程式，包含一個按鈕和一個標籤，點擊按鈕後標籤文本會發生變化。
 ```java
-    import javafx.application.Application;
+import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;

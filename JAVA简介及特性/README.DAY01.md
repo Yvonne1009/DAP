@@ -1,2 +1,1 @@
-## DAY01
-## Java语言基础 Java主要应用场景
+# Java语言基础 Java主要应用场景
